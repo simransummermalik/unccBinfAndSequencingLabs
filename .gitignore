@@ -1,0 +1,5 @@
+*.fas
+*.fasta
+*.oneline.fasta
+*.out
+*.gz
